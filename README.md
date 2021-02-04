@@ -2,6 +2,6 @@
 
 ## Cashew Nuts Details:
 
-### **Village** :Tadimalla,Nidadavolu
+### **Village** :Tadimalla,Nidadavolu.
 ### **Phone No** :1234567890
 ### **G-mail** :musukuni ni pani chudu
